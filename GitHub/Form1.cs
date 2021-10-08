@@ -19,7 +19,7 @@ namespace GitHub
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("눌렀어요!");      
+            MessageBox.Show("눌러보았습니다!!");      
         }
     }
 }
